@@ -5,6 +5,7 @@
 1. Gain a deeper understanding of object relations.
 2. Build classes that produce objects that interact with one another through associations and behavior.
 3. Learn Pair programming.
+4. Learn Git Flow.
 
 ## Instructions
 
